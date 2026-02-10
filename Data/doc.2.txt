@@ -1,0 +1,7 @@
+
+    Cloud-Native Microservices and Scalability
+
+    Modern backend architectures often utilize Spring Boot and Docker to create microservices. 
+    Deploying these on AWS using services like EKS or Lambda allows for elastic scaling. 
+    API Gateways act as the entry point, routing traffic to specific services like Product, Order, or User modules.
+    

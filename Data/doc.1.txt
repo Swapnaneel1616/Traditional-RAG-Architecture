@@ -1,0 +1,7 @@
+
+    Agentic AI and Autonomous Workflows
+
+    Agentic AI refers to systems designed to use tools and make decisions to achieve a goal. 
+    Unlike standard chatbots, AI agents can use 'Reasoning and Acting' (ReAct) patterns to 
+    call APIs, search the web, or execute code independently to complete multi-step tasks.
+    

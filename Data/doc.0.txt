@@ -1,0 +1,7 @@
+
+    Retrieval-Augmented Generation (RAG) and Vector Databases
+
+    RAG systems enhance Large Language Models by retrieving relevant data from external sources like ChromaDB or FAISS. 
+    By converting documents into vector embeddings, the system can perform semantic searches to find context 
+    that a model wasn't originally trained on, reducing hallucinations.
+    

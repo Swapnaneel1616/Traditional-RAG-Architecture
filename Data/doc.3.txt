@@ -1,0 +1,7 @@
+
+    Natural Language Processing with NLTK and Transformers
+
+    Natural Language Processing (NLP) involves the interaction between computers and human languages. 
+    Libraries like NLTK are used for basic tokenization and stop-word removal, while Transformer-based 
+    models like BERT or GPT handle complex tasks like sentiment analysis and language translation.
+    
